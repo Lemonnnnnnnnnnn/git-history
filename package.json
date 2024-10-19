@@ -52,5 +52,8 @@
   "collective": {
     "type": "opencollective",
     "url": "https://opencollective.com/git-history"
+  },
+  "volta": {
+    "node": "14.21.3"
   }
 }
